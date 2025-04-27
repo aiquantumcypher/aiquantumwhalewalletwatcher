@@ -1,0 +1,5 @@
+{
+    "WHALE_ALERT_API_KEY": "your_whale_alert_key",
+    "DOBBY_API_KEY": "your_dobby_key",
+    "TAVILY_API_KEY": "your_tavily_key"
+}
